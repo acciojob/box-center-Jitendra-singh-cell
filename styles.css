@@ -1,14 +1,4 @@
-/*  your css code here. If applicable */
-/* General body styling */
-body {
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #f0f0f0; /* Light background color */
-}
+
 
 /* Box styling */
 .center-box {
@@ -20,7 +10,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center; /* Center the text horizontally */
-  font-size: 16px; /* Font size for the text */
+  font-size: 20px; /* Font size for the text */
   color: purple; /* Text color */
   position: relative; /* Enables absolute positioning of content */
 }
